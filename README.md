@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sivani
+# 👋 Hi, I'm Sivani Voonna
 
 I'm a **Java Full Stack Engineer with 5+ years of experience** building scalable, reliable, and cloud-native applications across **e-commerce and airline domains**.
 
@@ -25,5 +25,3 @@ I enjoy solving complex engineering problems, improving system reliability and s
 ### 📌 Currently Exploring
 
 **Java 21+ • AWS • Kubernetes • Apache Flink • Kafka • System Design • Agentic AI • LLM Applications**
-
-📫 Feel free to connect, collaborate, or explore my projects!
